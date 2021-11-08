@@ -1,6 +1,6 @@
 # Equipo 2 Sistemas Inteligentes
 ## Repositorio github
-
+#
 ### Integrantes: 
 #### Martín Palomares García A01066569
 #### Brian Alberto Salomón Sevilla A00828826
