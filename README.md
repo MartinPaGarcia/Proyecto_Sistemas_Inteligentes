@@ -17,4 +17,4 @@ El reto consiste en proponer una solución al problema de movilidad urbana en M�
 
 # Prototipos
 #### A continuación se muestran los prototipos
-![](src/images/portotipo1.jpeg)
+![Imagen proyecto 1](src/images/portotipo1.jpeg)
