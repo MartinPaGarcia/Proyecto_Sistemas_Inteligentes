@@ -14,3 +14,7 @@ La comunicación por Slack queda abierta a cualquier usuario con una cuenta inst
 # Descripción del Reto
 ## Movilidad Urbana
 El reto consiste en proponer una solución al problema de movilidad urbana en México, mediante un enfoque que reduzca la congestión vehicular al simular de manera gráfica el tráfico, representando la salida de un sistema multi agentes.
+
+# Prototipos
+#### A continuación se muestran los prototipos
+![](src/images/portotipo1.jpeg)
