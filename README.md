@@ -12,3 +12,7 @@
 ## Slack
 #### Cualquiera puede unirse a nuestro Slack siempre y cuando haga uso de su cuenta institucional.
 #### Link : https://join.slack.com/t/itesm-zfs6300/shared_invite/zt-yekqz1xf-YB6Vvd8T_5uPp0oohGWOvQ
+
+# Descripción del Reto
+## Movilidad Urbana
+#### El reto consiste en proponer una solución al problema de movilidad urbana en México, mediante un enfoque que reduzca la congestión vehicular al simular de manera gráfica el tráfico, representando la salida de un sistema multi agentes.
