@@ -4,8 +4,8 @@
 ### Integrantes: 
 #### Martín Palomares García A01066569
 #### Brian Alberto Salomón Sevilla A00828826
-#### Ana Fernandez Tovar
-#### Carlos
+#### Ana Fernanda Hernández Tovar A01411484
+#### Carlos G. del Rosal  A01566719
 #
 # Herramienta de comunicación
 
