@@ -428,6 +428,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 0}
     - target: {fileID: 3277297570696613078, guid: 37e39e00085582d45a34de062f503dd1, type: 3}
+      propertyPath: m_VersionIndex
+      value: 3886
+      objectReference: {fileID: 0}
+    - target: {fileID: 3277297570696613078, guid: 37e39e00085582d45a34de062f503dd1, type: 3}
       propertyPath: m_Textures0.Array.data[2186].x
       value: NaN
       objectReference: {fileID: 0}
