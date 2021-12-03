@@ -1,5 +1,5 @@
 # Equipo 2 Sistemas Inteligentes
-## Repositorio github
+## Repositorio de trabajo en github
 
 ### Integrantes:
 Martín Palomares García A01066569 </br>
@@ -15,12 +15,4 @@ La comunicación por Slack queda abierta a cualquier usuario con una cuenta inst
 ## Movilidad Urbana
 El reto consiste en proponer una solución al problema de movilidad urbana en México, mediante un enfoque que reduzca la congestión vehicular al simular de manera gráfica el tráfico, representando la salida de un sistema multi agentes.
 
-# Prototipos
-#### A continuación se muestran los prototipos
-<img src= "src/img/prototipo1.png" width=60%>
-
-#### A continuación se muestran la imagen prototipo 2
-<img src= "src/img/prototipo2.jpeg" width=60%>
-
-## Link de Colab de Entrega de Avance 1
-#### Link : https://colab.research.google.com/drive/1CZnRV5N8BuyfXLHktjhAHj0y4PF0EQux?usp=sharing
+A través de actividades de trabajo, una actividad integradora y avances paulatinos de la entrega final del reto, se logra entregar una simulación de un sistema multi-agentes de una intersección de dos avenidas con cuatro semáforos inteligentes. Se utiliza Python para la construcción y ejecución del ambiente y para la creación de un servidor que de acceso a estos datos. Unity, en cambio, recibe estos datos para generar una visualización en 3D de lo que se ha encontrado, aplicando conocimientos de modelación, texturas, transformaciones e iluminaciones.
